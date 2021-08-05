@@ -6,3 +6,4 @@ add master test
 add dev test
 1 one lin
 new line 
+xiufu bug
